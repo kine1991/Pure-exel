@@ -1,0 +1,103 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"c34e68b4-60c3-45c3-ab57-f1165b6d45cc\" name=\"Default Changelist\" comment=\"\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ProjectId\" id=\"1hPC14fDvMooeQZvuoTHKBv2tMH\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\n    <property name=\"node.js.detected.package.eslint\" value=\"true\" />\n    <property name=\"node.js.path.for.package.eslint\" value=\"project\" />\n    <property name=\"node.js.selected.package.eslint\" value=\"(autodetect)\" />\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\n  </component>\n  <component name=\"RunManager\">\n    <configuration name=\"start\" type=\"js.build_tools.npm\" temporary=\"true\" nameIsGenerated=\"true\">\n      <package-json value=\"$PROJECT_DIR$/package.json\" />\n      <command value=\"run\" />\n      <scripts>\n        <script value=\"start\" />\n      </scripts>\n      <node-interpreter value=\"project\" />\n      <envs />\n      <method v=\"2\" />\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"npm.start\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"c34e68b4-60c3-45c3-ab57-f1165b6d45cc\" name=\"Default Changelist\" comment=\"\" />\n      <created>1599903121181</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1599903121181</updated>\n      <workItem from=\"1599903122213\" duration=\"451000\" />\n      <workItem from=\"1600068354924\" duration=\"5352000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"WindowStateProjectService\">\n    <state x=\"556\" y=\"312\" key=\"#Other_File_Types\" timestamp=\"1600069443031\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state x=\"556\" y=\"312\" key=\"#Other_File_Types/0.0.1440.900@0.0.1440.900\" timestamp=\"1600069443031\" />\n    <state width=\"1419\" height=\"199\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1600077407672\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state width=\"1419\" height=\"199\" key=\"GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900\" timestamp=\"1600077407672\" />\n    <state width=\"1419\" height=\"199\" key=\"GridCell.Tab.0.center\" timestamp=\"1600077407669\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state width=\"1419\" height=\"199\" key=\"GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900\" timestamp=\"1600077407669\" />\n    <state width=\"1419\" height=\"199\" key=\"GridCell.Tab.0.left\" timestamp=\"1600077407669\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state width=\"1419\" height=\"199\" key=\"GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900\" timestamp=\"1600077407669\" />\n    <state width=\"1419\" height=\"199\" key=\"GridCell.Tab.0.right\" timestamp=\"1600077407671\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state width=\"1419\" height=\"199\" key=\"GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900\" timestamp=\"1600077407671\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 9733fc5a097c4eb542878c0a9ab5cd02f6d37a3d)
++++ .idea/workspace.xml	(date 1600079000393)
+@@ -1,13 +1,37 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
++  <component name="BranchesTreeState">
++    <expand>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++    </expand>
++    <select />
++  </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="c34e68b4-60c3-45c3-ab57-f1165b6d45cc" name="Default Changelist" comment="" />
++    <list default="true" id="c34e68b4-60c3-45c3-ab57-f1165b6d45cc" name="Default Changelist" comment="">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="ProjectId" id="1hPC14fDvMooeQZvuoTHKBv2tMH" />
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+@@ -48,33 +72,44 @@
+       <option name="presentableId" value="Default" />
+       <updated>1599903121181</updated>
+       <workItem from="1599903122213" duration="451000" />
+-      <workItem from="1600068354924" duration="5352000" />
++      <workItem from="1600068354924" duration="6029000" />
+     </task>
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
+   <component name="WindowStateProjectService">
+     <state x="556" y="312" key="#Other_File_Types" timestamp="1600069443031">
+       <screen x="0" y="0" width="1440" height="900" />
+     </state>
+     <state x="556" y="312" key="#Other_File_Types/0.0.1440.900@0.0.1440.900" timestamp="1600069443031" />
+-    <state width="1419" height="199" key="GridCell.Tab.0.bottom" timestamp="1600077407672">
++    <state width="1419" height="199" key="GridCell.Tab.0.bottom" timestamp="1600077535069">
+       <screen x="0" y="0" width="1440" height="900" />
+     </state>
+-    <state width="1419" height="199" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600077407672" />
+-    <state width="1419" height="199" key="GridCell.Tab.0.center" timestamp="1600077407669">
++    <state width="1419" height="199" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600077535069" />
++    <state width="1419" height="199" key="GridCell.Tab.0.center" timestamp="1600077535068">
+       <screen x="0" y="0" width="1440" height="900" />
+     </state>
+-    <state width="1419" height="199" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600077407669" />
+-    <state width="1419" height="199" key="GridCell.Tab.0.left" timestamp="1600077407669">
++    <state width="1419" height="199" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600077535068" />
++    <state width="1419" height="199" key="GridCell.Tab.0.left" timestamp="1600077535067">
+       <screen x="0" y="0" width="1440" height="900" />
+     </state>
+-    <state width="1419" height="199" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600077407669" />
+-    <state width="1419" height="199" key="GridCell.Tab.0.right" timestamp="1600077407671">
++    <state width="1419" height="199" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600077535067" />
++    <state width="1419" height="199" key="GridCell.Tab.0.right" timestamp="1600077535069">
+       <screen x="0" y="0" width="1440" height="900" />
+     </state>
+-    <state width="1419" height="199" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600077407671" />
++    <state width="1419" height="199" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600077535069" />
+   </component>
+ </project>
+\ No newline at end of file
