@@ -20,25 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c34e68b4-60c3-45c3-ab57-f1165b6d45cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/excel/Excel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/formula/Formula.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/table/Table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/toolbar/Toolbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/DomListener.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/ExcelComponent.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/formula.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/formula.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/table.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/table.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/toolbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/toolbar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/excel/Excel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/excel/Excel.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +74,7 @@
       <updated>1599903121181</updated>
       <workItem from="1599903122213" duration="451000" />
       <workItem from="1600068354924" duration="5352000" />
-      <workItem from="1600258930865" duration="15411000" />
+      <workItem from="1600258930865" duration="15867000" />
     </task>
     <servers />
   </component>
@@ -115,22 +98,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="556" y="312" key="#Other_File_Types/0.0.1440.900@0.0.1440.900" timestamp="1600069443031" />
-    <state width="1419" height="205" key="GridCell.Tab.0.bottom" timestamp="1600259282663">
+    <state width="1419" height="205" key="GridCell.Tab.0.bottom" timestamp="1600333240344">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="205" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600259282663" />
-    <state width="1419" height="205" key="GridCell.Tab.0.center" timestamp="1600259282661">
+    <state width="1419" height="205" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600333240344" />
+    <state width="1419" height="205" key="GridCell.Tab.0.center" timestamp="1600333240343">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="205" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600259282661" />
-    <state width="1419" height="205" key="GridCell.Tab.0.left" timestamp="1600259282660">
+    <state width="1419" height="205" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600333240343" />
+    <state width="1419" height="205" key="GridCell.Tab.0.left" timestamp="1600333240342">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="205" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600259282660" />
-    <state width="1419" height="205" key="GridCell.Tab.0.right" timestamp="1600259282661">
+    <state width="1419" height="205" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600333240342" />
+    <state width="1419" height="205" key="GridCell.Tab.0.right" timestamp="1600333240343">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="205" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600259282661" />
+    <state width="1419" height="205" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600333240343" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1600260346951">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
